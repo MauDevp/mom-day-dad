@@ -13,7 +13,7 @@ const nextConfig = {
   },
   // Optimizaciones de rendimiento
   experimental: {
-    optimizeCss: true,
+    // optimizeCss: true, // Deshabilitado temporalmente por error con critters
   },
   // Comprimir respuestas
   compress: true,
