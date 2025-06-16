@@ -218,25 +218,25 @@ export default function MamaPortfolio() {
     {
       title: "🚗 Aventuras Familiares Épicas",
       description: "Esos viajecitos y paseos que convertías en aventuras épicas súper emocionantes, sin importar si íbamos a la esquina o al fin del mundo. La magia estaba en estar juntos.",
-      image: "/foto7_1.png?height=300&width=400",
+      image: "/foto7_1.jpg?height=300&width=400",
       color: "from-blue-200 to-cyan-200",
     },
     {
       title: "☀️ Momentitos Cotidianos de Oro",
       description: "Las pequeñas cositas del día a día que hacías súper especiales con tu amor y tu dedicación absoluta. Cada momento contigo era un regalo precioso.",
-      image: "/foto10.jpg?height=300&width=400",
+      image: "/foto10_1.jpg?height=300&width=400",
       color: "from-yellow-200 to-orange-200",
     },
     {
       title: "🎈 Instantes de Alegría Eterna",
       description: "Este es uno de esos momentos, mamá, donde la alegría parece detenerse en el tiempo. Tu sonrisa ilumina la foto, tal como ilumina mi vida. Es un recuerdo preciado que guardo en esta galería como un recordatorio constante de la felicidad que me brindas.",
-      image: "/foto6.jpg?height=300&width=400",
+      image: "/foto6_1.jpg?height=300&width=400",
       color: "from-green-200 to-emerald-200",
     },
     {
       title: "😊 Un Hogar Lleno de Tu Amor",
       description: "Esta imagen, mamá, nos recuerda que donde estás tú, hay un hogar lleno de amor. Tu sonrisa es el reflejo de la alegría que nos das, y estos momentos juntos son el cimiento de nuestros recuerdos más preciosos. Gracias por ser el corazón que nos une.",
-      image: "/foto11.jpg?height=300&width=400",
+      image: "/foto11_1.jpg?height=300&width=400",
       color: "from-indigo-200 to-purple-200",
     },
   ]
@@ -586,7 +586,7 @@ export default function MamaPortfolio() {
             >
               <motion.img
                 src="/foto9.jpg?height=200&width=200"
-                alt="Mi mamá hermosa, la reina de mi corazón"
+                alt="Mi mamá, la reina de mi corazón"
                 className="w-24 h-24 sm:w-32 sm:h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 rounded-full mx-auto mb-4 sm:mb-6 border-3 sm:border-4 border-white/60 shadow-2xl object-cover"
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.3 }}
@@ -708,13 +708,13 @@ export default function MamaPortfolio() {
             transition={{ duration: 0.8, delay: 2.2 }}
           >
             <p className="text-sm sm:text-lg md:text-xl lg:text-2xl opacity-95 leading-relaxed font-medium">
-              Este rinconcito especial del internet es tu portafolio de amor, mamá hermosa. 
+              Este rincón especial del internet es tu portafolio de amor, mamá. 
               Aquí celebramos TODOS tus súper poderes como la madre más increíble del universo entero.
             </p>
             <p className="text-xs sm:text-base md:text-lg lg:text-xl opacity-90 leading-relaxed">
               Cada sección está llena hasta el tope del amor gigantesco, la admiración profunda 
-              y la gratitud infinita que siento por ti cada segundo de cada día. 
-              ¡Eres mi sol, mi luna y todas mis estrellitas juntas! ✨
+              y la gratitud que siento por ti cada segundo de cada día. 
+              ¡Eres mi sol, mi luna y todas mis estrellas juntas! ✨
             </p>
           </motion.div>
 
@@ -814,7 +814,7 @@ export default function MamaPortfolio() {
             
             <p className="text-lg text-gray-600 mb-4 max-w-3xl mx-auto leading-relaxed">
               Porque ser mamá es la profesión más importante, hermosa y poderosa del universo entero, 
-              y tú, mi amor, eres la MEJOR en tu campo. Aquí están todas las razones por las que eres mi heroína.
+              y tú, mi mamá, eres la MEJOR en tu campo. Aquí están todas las razones por las que eres mi heroína.
             </p>
             
             <motion.div
@@ -969,7 +969,7 @@ export default function MamaPortfolio() {
               ¡Y esto es solo el comienzo!
             </h3>
             <p className="text-gray-600 leading-relaxed">
-              Cada día descubro nuevas razones para admirarte más, mamá hermosa. 
+              Cada día descubro nuevas razones para admirarte más, mamá. 
               Eres mi inspiración, mi ejemplo a seguir, y la persona más extraordinaria que conozco. 
               ¡Gracias por ser la mamá más increíble del universo! 💖✨
             </p>
